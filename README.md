@@ -11,9 +11,10 @@ https://zelenodvoriste.github.io
 ##  Kontakt
 
 * Telefon: +381 64 287 2717
-* Email: [zelenodvoriste@hotmail.com](mailto:zelenodvoriste@hotmail.com)
+* WhatsUp: +381 64 287 2717
 * Instagram: @zelenodvoriste_
-
+* Email: [zelenodvoriste@hotmail.com](mailto:zelenodvoriste@hotmail.com)
+  
 ##  Tehnologije
 
 * HTML5
